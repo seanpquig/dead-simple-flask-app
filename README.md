@@ -1,7 +1,7 @@
 # dead-simple-flask-app
 minimal Flask template
 
-###Build
+### Build
 
 Setup virtualenv:
 
@@ -13,7 +13,7 @@ Install app dependencies:
 
 	$ pip install -r requirements.txt
 
-###Run
+### Run
 
 Run app with Gunicorn workers:
 
